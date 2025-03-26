@@ -1,0 +1,11 @@
+# Dependency Directories
+node_modules/
+
+# Optional npm cahce directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Temporary Files
+.DS_Store

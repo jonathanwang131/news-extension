@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "News Aggregator",
+    "version": "1.0.0",
+    "description": "Curate Balanced News from Reddit",
+    "icons": {
+        "48": "icons/icon-48.png"
+    },
+    "permissions": [
+        "storage",
+        "https://www.reddit.com/"
+    ],
+    "browser_action": {
+        "default_icon": "icons/icon-48.png",
+        "default_popup": "src/popup.html"
+    }
+}
